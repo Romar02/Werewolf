@@ -1,0 +1,2 @@
+# Werewolf
+Discord bot
